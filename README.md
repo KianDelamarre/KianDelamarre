@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kian Delamarre 👋
 
-<!--
-**KianDelamarre/KianDelamarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an upcoming First-Class Computer Science graduate focused on building scalable, well-architected full-stack systems and self-hosting infrastructure. I prioritize deep fundamental learning and code integrity over generative shortcuts.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Ecosystem
+- **Languages:** C#, JavaScript (Node.js), C++, Python
+- **Frameworks:** .NET (Core, Blazor), Express.js
+- **Databases & Architecture:** SQLite, MongoDB, Clean/Layered Architecture, DAG Engines
+- **DevOps & Infrastructure:** Docker, GitHub Actions, Linux (Ubuntu/Debian), Nginx Proxy Manager, Cloudflare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Key Highlights
+- **Enterprise Architecture:** Designed a fully decoupled, multi-layered .NET system featuring a custom Directed Acyclic Graph (DAG) execution workflow engine using MongoDB.
+- **Proven Public Scale:** Built a containerized, PWA-compatible media utility with over 600+ public pulls on Docker Hub via an automated GitHub Actions CI/CD pipeline.
+- **Homelab Practitioner:** Actively manage and self-host a secure Linux-based homelab environment utilizing reverse proxies, SSL/TLS termination, and container orchestration.

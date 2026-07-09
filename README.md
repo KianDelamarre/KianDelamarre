@@ -1,6 +1,6 @@
 # Hi, I'm Kian Delamarre 👋
 
-I am an upcoming First-Class Computer Science graduate focused on building scalable, well-architected full-stack systems and self-hosting infrastructure. I prioritize deep fundamental learning and code integrity over generative shortcuts.
+I am a First-Class Computer Science graduate focused on building scalable, well-architected full-stack systems and self-hosting infrastructure. I prioritize deep fundamental learning and code integrity over generative shortcuts.
 
 ### 🛠️ Tech Stack & Ecosystem
 - **Languages:** C#, JavaScript (Node.js), C++, Python

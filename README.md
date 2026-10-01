@@ -3,7 +3,7 @@
 I am a First-Class Computer Science graduate focused on building scalable, well-architected full-stack systems and self-hosting infrastructure. I prioritize deep fundamental learning and code integrity over generative shortcuts.
 
 ### 🛠️ Tech Stack & Ecosystem
-- **Languages:** C#, JavaScript (Node.js), C++, Python
+- **Languages:** C#, Java, JavaScript (Node.js), C++
 - **Frameworks:** .NET (Core, Blazor), Express.js
 - **Databases & Architecture:** SQLite, MongoDB, Clean/Layered Architecture, DAG Engines
 - **DevOps & Infrastructure:** Docker, GitHub Actions, Linux (Ubuntu/Debian), Nginx Proxy Manager, Cloudflare
